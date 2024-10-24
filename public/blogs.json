@@ -1,0 +1,67 @@
+[
+    {
+        "id": 1,
+        "cover": "https://i.ibb.co.com/9TpB8GX/vertical-shot-happy-korean-woman-medical-mask-holding-flight-tickets-passport-standing-wit.jpg",
+        "title": "The Lost Kingdom",
+        "author": "Alice Smith",
+        "author_img": "https://i.ibb.co.com/JQJs27C/author.png",
+        "posted_date": "2023-09-15",
+        "reading_time": 15,
+        "hashtags":[
+            "development",
+            "resources"
+        ]
+    },
+    {
+        "id": 2,
+        "cover": "https://i.ibb.co.com/9TpB8GX/vertical-shot-happy-korean-woman-medical-mask-holding-flight-tickets-passport-standing-wit.jpg",
+        "title": "Whispers in the Dark",
+        "author": "John Doe",
+        "author_img": "https://i.ibb.co.com/JQJs27C/author.png",
+        "posted_date": "2023-10-01",
+        "reading_time": 10,
+        "hashtags":[
+            "development",
+            "resources"
+        ] 
+    },
+    {
+        "id": 3,
+        "cover": "https://i.ibb.co.com/9TpB8GX/vertical-shot-happy-korean-woman-medical-mask-holding-flight-tickets-passport-standing-wit.jpg",
+        "title": "Echoes of the Past",
+        "author": "Emma Johnson",
+        "author_img": "https://i.ibb.co.com/JQJs27C/author.png",
+        "posted_date": "2023-08-20",
+        "reading_time": 20,
+        "hashtags":[
+            "development",
+            "resources"
+        ]
+    },
+    {
+        "id": 4,
+        "cover": "https://i.ibb.co.com/9TpB8GX/vertical-shot-happy-korean-woman-medical-mask-holding-flight-tickets-passport-standing-wit.jpg",
+        "title": "The Time Traveler's Guide",
+        "author": "Michael Brown",
+        "author_img": "https://i.ibb.co.com/JQJs27C/author.png",
+        "posted_date": "2023-07-10",
+        "reading_time": 25,
+        "hashtags":[
+            "development",
+            "resources"
+        ] 
+    },
+    {
+        "id": 5,
+        "cover": "https://i.ibb.co.com/9TpB8GX/vertical-shot-happy-korean-woman-medical-mask-holding-flight-tickets-passport-standing-wit.jpg",
+        "title": "A Journey to the Unknown",
+        "author": "Sarah Wilson",
+        "author_img": "https://i.ibb.co.com/JQJs27C/author.png",
+        "posted_date": "2023-06-30",
+        "reading_time": 30,
+        "hashtags":[
+            "development",
+            "resources"
+        ] 
+    }
+]
